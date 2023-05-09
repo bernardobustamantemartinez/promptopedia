@@ -10,7 +10,6 @@
       <p className="desc text-center">
         Promptopedia is an open-source AI prompting tool for the modern world to explore, construct, and share creative prompts
       </p>
-      
       {/*Feed*/}
      </section>
    )  
